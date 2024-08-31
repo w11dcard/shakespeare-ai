@@ -4,9 +4,9 @@ A simple project made with Python, TensorFlow, and Keras for training and genera
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/w11dcard/shakespeare-ai .`
+1. Clone this repository: `git clone https://github.com/matimortari/shakespeare-ai .`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Train and generate Keras model: `python shakespeare_generate_model.py`
+3. Train and generate Keras model: `python shakespeare_generate.py`
 4. Load the model to generate the text: `python shakespeare_load.py`
 
 ## 📬 Contact
@@ -14,5 +14,5 @@ A simple project made with Python, TensorFlow, and Keras for training and genera
 Feel free to reach out to discuss collaboration opportunities or to say hello!
 
 - [My Email](mailto:matheus.felipe.19rt@gmail.com)
-- [My LinkedIn Profile](https://www.linkedin.com/in/matheus-mortari-19rt/)
-- [My GitHub Profile](https://github.com/w11dcard)
+- [My LinkedIn Profile](https://www.linkedin.com/in/matheus-mortari-19rt)
+- [My GitHub Profile](https://github.com/matimortari)
